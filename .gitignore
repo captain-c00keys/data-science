@@ -2,6 +2,8 @@
 
 *.csv
 
+~downloads/movie_metadata.csv
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
